@@ -136,7 +136,7 @@ We welcome contributions! Feel free to fork this repository, add your knowledge,
 
 Check the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
----
+----
 
 ## 📊 Stats
 
