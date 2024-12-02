@@ -1,6 +1,7 @@
 # AWS Interview Preparation Repository 🚀
+
 <p>
-  <img src="https://github.com/Tiger-a11y/Tiger-a11y/blob/main/aws-banner.jpg" alt="Banner" style="max-width:100%; height:auto;">
+  <img src="https://github.com/Tiger-a11y/Tiger-a11y/blob/main/aws-banner.jpg?raw=true" alt="Banner" style="max-width:100%; height:auto;">
 </p>
 
 Welcome to the **AWS Interview Preparation Repository**! This repository is dedicated to helping professionals ace their AWS-related interviews. Whether you're aiming for a **Cloud Engineer**, **DevOps Engineer**, or **AWS Solutions Architect** role, this repository will guide you through:
