@@ -145,7 +145,7 @@ Check the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ---
 
 ### 👨‍💻 Contact Me
-- 📫 Email: **example@email.com**
+- 📫 Email: **avinashwagh1211@gmail.com**
 - 💼 LinkedIn: [Avinash Wagh](https://linkedin.com/in/avinash-wagh101)
 
 ---
